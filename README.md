@@ -47,7 +47,7 @@ npm start
 
 # Run the frontend development server
 cd ../client
-npm start
+npm start.
 
 ##👥 Team Members
 👨‍💻 Saksham Jain

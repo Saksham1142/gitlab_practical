@@ -48,29 +48,7 @@ npm start
 # Run the frontend development server
 cd ../client
 npm start
-🧠 Project Structure
-bash
-Copy
-Edit
-TradEvil/
-├── client/              # Frontend - React
-│   ├── public/
-│   └── src/
-├── server/              # Backend - Node.js + Express
-│   ├── controllers/
-│   ├── models/
-│   └── routes/
-├── database/            # MongoDB schema & config
-├── README.md
-└── .env                 # Environment variables
-👨‍💻 Tech Stack
-Layer	Tech
-Frontend	React, Tailwind CSS, Axios
-Backend	Node.js, Express.js
-Database	MongoDB
-Auth	JWT, Bcrypt
-Hosting	(Optional) Vercel, Render, Railway
-Versioning	Git, GitHub
+
 👥 Team Members
 👨‍💻 Saksham Jain
 

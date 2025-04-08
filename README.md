@@ -24,7 +24,7 @@ Ensure the following are installed on your system:
 - MongoDB
 - Git
 
-### Installation
+## Installation
 
 ```bash
 # Clone the repository

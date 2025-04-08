@@ -48,7 +48,7 @@ npm start
 # Run the frontend development server
 cd ../client
 npm start.
-
+---
 👨‍💻 Tech Stack
 Layer	Tech
 Frontend	React, Tailwind CSS, Axios

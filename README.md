@@ -49,7 +49,7 @@ npm start
 cd ../client
 npm start
 
-👥 Team Members
+##👥 Team Members
 👨‍💻 Saksham Jain
 
 👩‍💻 Jasleen
@@ -60,7 +60,7 @@ npm start
 
 👨‍💻 Shabad
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 AI-powered product recommendation engine
 
 Voice search integration
